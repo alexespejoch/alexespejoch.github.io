@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexespejoch.github.io/categories/</loc>
+    <loc>https://alexespejoch.github.io/posts/ratelimiting_pattern_net8/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/posts/timeout_pattern_net8/</loc>
+    <lastmod>2024-08-10T21:29:01+08:00</lastmod>
   </url><url>
     <loc>https://alexespejoch.github.io/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/tags/net8/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/tags/pattern/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/posts/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/tags/ratelimiting/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
   </url><url>
     <loc>https://alexespejoch.github.io/tags/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/tags/webapi/</loc>
+    <lastmod>2024-09-09T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/tags/resilience/</loc>
+    <lastmod>2024-08-10T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/tags/timeout/</loc>
+    <lastmod>2024-08-10T21:29:01+08:00</lastmod>
+  </url><url>
+    <loc>https://alexespejoch.github.io/categories/</loc>
+  </url><url>
+    <loc>https://alexespejoch.github.io/projects/project_using_grpc/</loc>
+  </url><url>
+    <loc>https://alexespejoch.github.io/projects/</loc>
   </url>
 </urlset>

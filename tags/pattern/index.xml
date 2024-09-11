@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>El Blog del Arqui</title>
-    <link>https://alexespejoch.github.io/</link>
-    <description>Recent content on El Blog del Arqui</description>
+    <title>Pattern on El Blog del Arqui</title>
+    <link>https://alexespejoch.github.io/tags/pattern/</link>
+    <description>Recent content in Pattern on El Blog del Arqui</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Sep 2024 21:29:01 +0800</lastBuildDate>
-    <atom:link href="https://alexespejoch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alexespejoch.github.io/tags/pattern/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementación del Patrón Rate Limiting en Aplicaciones ASP.NET Core 8</title>
       <link>https://alexespejoch.github.io/posts/ratelimiting_pattern_net8/</link>
@@ -21,13 +21,6 @@
       <pubDate>Sat, 10 Aug 2024 21:29:01 +0800</pubDate>
       <guid>https://alexespejoch.github.io/posts/timeout_pattern_net8/</guid>
       <description>Gokarna is an opinionated theme with a focus on minimalism and simplicity.&#xA;Installation The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.&#xA;a. Create Your Project Hugo provides a new command to create a new website:&#xA;hugo new site my_website cd my_website b. Install the Theme The theme’s repository is: https://github.</description>
-    </item>
-    <item>
-      <title>Hydra</title>
-      <link>https://alexespejoch.github.io/projects/project_using_grpc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alexespejoch.github.io/projects/project_using_grpc/</guid>
-      <description>Motto Cut off one head and two will take their place</description>
     </item>
   </channel>
 </rss>
